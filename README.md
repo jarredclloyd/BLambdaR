@@ -1,6 +1,6 @@
 # BLambdaR
- Derivative of Anenburg and Williams 2022 doi:10.1007/s11004-021-09959-5 BLambdaR calculator for use offilne and with large datasets
- Only change made is to allows for the use of large datasets, please cite the above reference if used.
+Derivative of Anenburg and Williams 2022 doi:10.1007/s11004-021-09959-5 BLambdaR calculator for use offilne and with large datasets.
+Only change made is allows for the use of large datasets, please cite the above reference if used.
  
 MIT License
 
